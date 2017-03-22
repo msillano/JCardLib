@@ -1,0 +1,2000 @@
+
+ HAND n.0  ==========================
+               AJ5           
+               8764          
+               AK95          
+               AJ            
+           Q97      643           
+          AK93      QJT5          
+          QJ74      8             
+            74      T9653         
+               KT82          
+               2             
+               T632          
+               KQ82          
+ punti N :17
+ punti E :3
+ punti S :8
+ punti W :12
+    punti NS :25
+    punti EW :15
+
+ HAND n.1  ==========================
+               Q853          
+               98            
+               KT65          
+               AQ9           
+          AK76      T42           
+          KJ74      653           
+          A874      9             
+             7      KJ8652        
+               J9            
+               AQT2          
+               QJ32          
+               T43           
+ punti N :11
+ punti E :4
+ punti S :10
+ punti W :15
+    punti NS :21
+    punti EW :19
+
+ HAND n.2  ==========================
+               K2            
+               T876          
+               AQJ76         
+               43            
+         QJT97      A65           
+            K5      J3            
+           832      K954          
+           K65      JT97          
+               843           
+               AQ942         
+               T             
+               AQ82          
+ punti N :10
+ punti E :9
+ punti S :12
+ punti W :9
+    punti NS :22
+    punti EW :18
+
+ HAND n.3  ==========================
+               K2            
+               JT943         
+               98            
+               8752          
+          Q654      AJT           
+            K7      A852          
+         A6543      K72           
+            J3      KQ4           
+               9873          
+               Q6            
+               QJT           
+               AT96          
+ punti N :4
+ punti E :17
+ punti S :9
+ punti W :10
+    punti NS :13
+    punti EW :27
+
+ HAND n.4  ==========================
+               A832          
+               Q3            
+               9852          
+               AJ7           
+           764      Q             
+            J8      AT54          
+           Q64      T73           
+         86432      KQT95         
+               KJT95         
+               K9762         
+               AKJ           
+                             
+ punti N :11
+ punti E :11
+ punti S :15
+ punti W :3
+    punti NS :26
+    punti EW :14
+
+ HAND n.5  ==========================
+               98            
+               AJ53          
+               AT4           
+               QJT8          
+           QT7      KJ652         
+       KQT9864      2             
+            93      Q6            
+             3      AK752         
+               A43           
+               7             
+               KJ8752        
+               964           
+ punti N :12
+ punti E :13
+ punti S :8
+ punti W :7
+    punti NS :20
+    punti EW :20
+
+ HAND n.6  ==========================
+               JT94          
+               AT87          
+               A8            
+               643           
+         K8652      AQ7           
+           KJ4      2             
+           Q64      K975          
+            J8      KQT72         
+               3             
+               Q9653         
+               JT32          
+               A95           
+ punti N :9
+ punti E :14
+ punti S :7
+ punti W :10
+    punti NS :16
+    punti EW :24
+
+ HAND n.7  ==========================
+               K9            
+               976           
+               AQJ5          
+               KQ93          
+          AJ82      Q76           
+           KQ3      JT85          
+           876      K4            
+           A42      JT87          
+               T543          
+               A42           
+               T932          
+               65            
+ punti N :15
+ punti E :7
+ punti S :4
+ punti W :14
+    punti NS :19
+    punti EW :21
+
+ HAND n.8  ==========================
+               Q862          
+               AKJ42         
+               9             
+               A42           
+          KJ93      A74           
+           T97      Q63           
+           T43      862           
+           JT6      K953          
+               T5            
+               85            
+               AKQJ75        
+               Q87           
+ punti N :14
+ punti E :9
+ punti S :12
+ punti W :5
+    punti NS :26
+    punti EW :14
+
+ HAND n.9  ==========================
+               984           
+               KQJ63         
+               J3            
+               AJ4           
+           K63      AJ7           
+          A974      8             
+           842      KT765         
+           986      KQT2          
+               QT52          
+               T52           
+               AQ9           
+               753           
+ punti N :12
+ punti E :13
+ punti S :8
+ punti W :7
+    punti NS :20
+    punti EW :20
+
+ HAND n.10  ==========================
+               KQT3          
+               A854          
+               97            
+               942           
+           AJ7      98654         
+          KJ96      72            
+           JT3      A54           
+           KJ6      AT5           
+               2             
+               QT3           
+               KQ862         
+               Q873          
+ punti N :9
+ punti E :8
+ punti S :9
+ punti W :14
+    punti NS :18
+    punti EW :22
+
+ HAND n.11  ==========================
+               T9764         
+               98            
+               KJ82          
+               76            
+             K      8             
+          KJT2      Q7643         
+        A97654      T3            
+            K4      AJT93         
+               AQJ532        
+               A5            
+               Q             
+               Q852          
+ punti N :4
+ punti E :7
+ punti S :15
+ punti W :14
+    punti NS :19
+    punti EW :21
+
+ HAND n.12  ==========================
+               K94           
+               972           
+               QJ43          
+               KT8           
+         Q7653      J82           
+            T8      QJ4           
+           T96      A52           
+           432      A976          
+               AT            
+               AK653         
+               K87           
+               QJ5           
+ punti N :9
+ punti E :12
+ punti S :17
+ punti W :2
+    punti NS :26
+    punti EW :14
+
+ HAND n.13  ==========================
+               92            
+               AJT862        
+               AQ74          
+               5             
+           AJT      8763          
+           KQ9      543           
+            J5      KT983         
+         KT872      Q             
+               KQ54          
+               7             
+               62            
+               AJ9643        
+ punti N :11
+ punti E :5
+ punti S :10
+ punti W :14
+    punti NS :21
+    punti EW :19
+
+ HAND n.14  ==========================
+               K65           
+               T52           
+               AT93          
+               T97           
+           Q94      A83           
+            97      AQJ83         
+          Q762      K84           
+          A543      Q8            
+               JT72          
+               K64           
+               J5            
+               KJ62          
+ punti N :7
+ punti E :16
+ punti S :9
+ punti W :8
+    punti NS :16
+    punti EW :24
+
+ HAND n.15  ==========================
+               A63           
+               AKQ5          
+               953           
+               KT9           
+          Q854      KJ9           
+            72      JT96          
+           AT6      Q42           
+          AQ53      J76           
+               T72           
+               843           
+               KJ87          
+               842           
+ punti N :16
+ punti E :8
+ punti S :4
+ punti W :12
+    punti NS :20
+    punti EW :20
+
+ HAND n.16  ==========================
+               T7643         
+               J9            
+               A9            
+               KT63          
+            J9      AQ52          
+          KQ76      AT843         
+            Q8      43            
+         A9752      QJ            
+               K8            
+               52            
+               KJT7652       
+               84            
+ punti N :8
+ punti E :13
+ punti S :7
+ punti W :12
+    punti NS :15
+    punti EW :25
+
+ HAND n.17  ==========================
+               Q853          
+               AJ            
+               JT8642        
+               5             
+           AK6      T4            
+          Q963      T7542         
+            97      Q             
+          JT96      AQ742         
+               J972          
+               K8            
+               AK53          
+               K83           
+ punti N :8
+ punti E :8
+ punti S :14
+ punti W :10
+    punti NS :22
+    punti EW :18
+
+ HAND n.18  ==========================
+               K             
+               KQJT76        
+               J6            
+               A973          
+        J65432      AQ87          
+            A8      52            
+           KQ4      9875          
+            Q6      JT4           
+               T9            
+               943           
+               AT32          
+               K852          
+ punti N :14
+ punti E :7
+ punti S :7
+ punti W :12
+    punti NS :21
+    punti EW :19
+
+ HAND n.19  ==========================
+               95            
+               AT9843        
+               J             
+               8652          
+         AJ432      7             
+            KQ      J52           
+            QT      A7643         
+          JT73      AQ94          
+               KQT86         
+               76            
+               K9852         
+               K             
+ punti N :5
+ punti E :11
+ punti S :11
+ punti W :13
+    punti NS :16
+    punti EW :24
+
+ HAND n.20  ==========================
+               J2            
+               AK9753        
+               854           
+               86            
+           A84      Q763          
+           T42      QJ8           
+           AKT      732           
+          KJT4      AQ5           
+               KT95          
+               6             
+               QJ96          
+               9732          
+ punti N :8
+ punti E :11
+ punti S :6
+ punti W :15
+    punti NS :14
+    punti EW :26
+
+ HAND n.21  ==========================
+               AJ5           
+               AT2           
+               Q986          
+               K42           
+         QT973      K4            
+           KQ4      865           
+            AK      J7543         
+           J85      Q97           
+               862           
+               J973          
+               T2            
+               AT63          
+ punti N :14
+ punti E :6
+ punti S :5
+ punti W :15
+    punti NS :19
+    punti EW :21
+
+ HAND n.22  ==========================
+               Q73           
+               A98762        
+               3             
+               Q76           
+           K54      AJT86         
+             Q      KT            
+          J754      KT98          
+         A8543      K2            
+               92            
+               J543          
+               AQ62          
+               JT9           
+ punti N :8
+ punti E :14
+ punti S :8
+ punti W :10
+    punti NS :16
+    punti EW :24
+
+ HAND n.23  ==========================
+               J             
+               J542          
+               9864          
+               QJ76          
+         K8654      AQ32          
+            63      A98           
+           AKT      J72           
+           AT4      K52           
+               T97           
+               KQT7          
+               Q53           
+               983           
+ punti N :5
+ punti E :14
+ punti S :7
+ punti W :14
+    punti NS :12
+    punti EW :28
+
+ HAND n.24  ==========================
+               Q2            
+               83            
+               AKQ752        
+               AQ7           
+          AT63      9754          
+            Q5      AKT           
+            94      863           
+         J9643      852           
+               KJ8           
+               J97642        
+               JT            
+               KT            
+ punti N :17
+ punti E :7
+ punti S :9
+ punti W :7
+    punti NS :26
+    punti EW :14
+
+ HAND n.25  ==========================
+               A93           
+               QT32          
+               874           
+               KQ3           
+            QJ      K76           
+           KJ8      A976          
+         KJT93      Q2            
+           A86      JT72          
+               T8542         
+               54            
+               A65           
+               954           
+ punti N :11
+ punti E :10
+ punti S :4
+ punti W :15
+    punti NS :15
+    punti EW :25
+
+ HAND n.26  ==========================
+               AKQ854        
+               A2            
+               K9            
+               K75           
+             7      T9632         
+          JT75      Q983          
+          T876      J2            
+          QJ63      T9            
+               J             
+               K64           
+               AQ543         
+               A842          
+ punti N :19
+ punti E :3
+ punti S :14
+ punti W :4
+    punti NS :33
+    punti EW :7
+
+ HAND n.27  ==========================
+               3             
+               J9            
+               762           
+               AKJ7652       
+          J976      AQT842        
+          K632      T8            
+           AKQ      85            
+            T4      Q98           
+               K5            
+               AQ754         
+               JT943         
+               3             
+ punti N :9
+ punti E :8
+ punti S :10
+ punti W :13
+    punti NS :19
+    punti EW :21
+
+ HAND n.28  ==========================
+               Q5            
+               JT953         
+               Q943          
+               64            
+          J643      T982          
+           A62      Q7            
+            62      J5            
+          AJT2      K9753         
+               AK7           
+               K84           
+               AKT87         
+               Q8            
+ punti N :5
+ punti E :6
+ punti S :19
+ punti W :10
+    punti NS :24
+    punti EW :16
+
+ HAND n.29  ==========================
+               T98           
+               6             
+               983           
+               AQT853        
+            62      J7543         
+          AQT9      82            
+           AQT      K64           
+          KJ62      974           
+               AKQ           
+               KJ7543        
+               J752          
+                             
+ punti N :6
+ punti E :4
+ punti S :14
+ punti W :16
+    punti NS :20
+    punti EW :20
+
+ HAND n.30  ==========================
+               JT5           
+               Q2            
+               T73           
+               KQT83         
+           K62      AQ984         
+             7      AK94          
+          AJ52      Q96           
+         A7542      J             
+               73            
+               JT8653        
+               K84           
+               96            
+ punti N :8
+ punti E :16
+ punti S :4
+ punti W :12
+    punti NS :12
+    punti EW :28
+
+ HAND n.31  ==========================
+               Q832          
+               T7652         
+               832           
+               T             
+            AJ      K7654         
+            AJ      Q98           
+            J6      94            
+       AKJ7653      Q84           
+               T9            
+               K43           
+               AKQT75        
+               92            
+ punti N :2
+ punti E :7
+ punti S :12
+ punti W :19
+    punti NS :14
+    punti EW :26
+
+ HAND n.32  ==========================
+               T             
+               A9752         
+               KJ3           
+               A872          
+         KQ973      642           
+                    JT            
+          A874      T652          
+          Q543      JT96          
+               AJ85          
+               KQ8643        
+               Q9            
+               K             
+ punti N :12
+ punti E :2
+ punti S :15
+ punti W :11
+    punti NS :27
+    punti EW :13
+
+ HAND n.33  ==========================
+               Q84           
+               T95           
+               KQ4           
+               AQ73          
+          AJ52      T73           
+            AK      QJ8743        
+           T83      AJ            
+          KJ96      84            
+               K96           
+               62            
+               97652         
+               T52           
+ punti N :13
+ punti E :8
+ punti S :3
+ punti W :16
+    punti NS :16
+    punti EW :24
+
+ HAND n.34  ==========================
+               AT96          
+               T82           
+               T             
+               AQ876         
+          QJ82      5             
+          Q764      AJ953         
+            75      AQ982         
+           953      KJ            
+               K743          
+               K             
+               KJ643         
+               T42           
+ punti N :10
+ punti E :15
+ punti S :10
+ punti W :5
+    punti NS :20
+    punti EW :20
+
+ HAND n.35  ==========================
+               K76           
+               KJ65          
+               2             
+               AKJ82         
+        QT8542      J3            
+           A83      Q742          
+           Q94      KJT5          
+             3      T94           
+               A9            
+               T9            
+               A8763         
+               Q765          
+ punti N :15
+ punti E :7
+ punti S :10
+ punti W :8
+    punti NS :25
+    punti EW :15
+
+ HAND n.36  ==========================
+               K             
+               AKT92         
+               Q9732         
+               K9            
+          J742      8653          
+            76      Q853          
+            KJ      85            
+         JT832      A76           
+               AQT9          
+               J4            
+               AT64          
+               Q54           
+ punti N :15
+ punti E :6
+ punti S :13
+ punti W :6
+    punti NS :28
+    punti EW :12
+
+ HAND n.37  ==========================
+               984           
+               KJ93          
+               QJT2          
+               A7            
+           T76      QJ52          
+           A54      872           
+            83      AK94          
+         Q9832      T6            
+               AK3           
+               QT6           
+               765           
+               KJ54          
+ punti N :11
+ punti E :10
+ punti S :13
+ punti W :6
+    punti NS :24
+    punti EW :16
+
+ HAND n.38  ==========================
+               AKJ7          
+               AT4           
+               J98           
+               K32           
+          T843      Q65           
+            K7      QJ852         
+        QT6542      AK            
+             6      Q54           
+               92            
+               963           
+               73            
+               AJT987        
+ punti N :16
+ punti E :14
+ punti S :5
+ punti W :5
+    punti NS :21
+    punti EW :19
+
+ HAND n.39  ==========================
+               QJ87          
+               765           
+               JT95          
+               83            
+           K94      T52           
+             A      KJ984         
+         A8763      KQ4           
+          AK65      J7            
+               A63           
+               QT32          
+               2             
+               QT942         
+ punti N :4
+ punti E :10
+ punti S :8
+ punti W :18
+    punti NS :12
+    punti EW :28
+
+ HAND n.40  ==========================
+               AT62          
+               AQ97          
+               9             
+               KT83          
+         KJ543      87            
+            T6      843           
+           K42      AQ75          
+           764      A952          
+               Q9            
+               KJ52          
+               JT863         
+               QJ            
+ punti N :13
+ punti E :10
+ punti S :10
+ punti W :7
+    punti NS :23
+    punti EW :17
+
+ HAND n.41  ==========================
+                             
+               A32           
+               QT3           
+               K987432       
+          AK98      JT75          
+            T9      KQ765         
+           K84      A72           
+          QJT5      6             
+               Q6432         
+               J84           
+               J965          
+               A             
+ punti N :9
+ punti E :10
+ punti S :8
+ punti W :13
+    punti NS :17
+    punti EW :23
+
+ HAND n.42  ==========================
+               AQ            
+               Q865          
+               A874          
+               AKT           
+        T86542      K7            
+             J      7432          
+         KQJ63      T2            
+             5      J9874         
+               J93           
+               AKT9          
+               95            
+               Q632          
+ punti N :19
+ punti E :4
+ punti S :10
+ punti W :7
+    punti NS :29
+    punti EW :11
+
+ HAND n.43  ==========================
+               87652         
+               AQ7           
+               T53           
+               84            
+          AKJ4      Q93           
+         KJ986      2             
+            Q7      9862          
+            32      AJ976         
+               T             
+               T543          
+               AKJ4          
+               KQT5          
+ punti N :6
+ punti E :7
+ punti S :13
+ punti W :14
+    punti NS :19
+    punti EW :21
+
+ HAND n.44  ==========================
+               987           
+               96            
+               AJ7           
+               AKJT6         
+           K42      QJ53          
+            A7      J852          
+           863      Q952          
+         Q7432      9             
+               AT6           
+               KQT43         
+               KT4           
+               85            
+ punti N :13
+ punti E :6
+ punti S :12
+ punti W :9
+    punti NS :25
+    punti EW :15
+
+ HAND n.45  ==========================
+               AT6           
+               J7            
+               A9762         
+               AK7           
+           Q95      KJ43          
+            A4      KT2           
+         QJT84      3             
+           865      QJT93         
+               872           
+               Q98653        
+               K5            
+               42            
+ punti N :16
+ punti E :10
+ punti S :5
+ punti W :9
+    punti NS :21
+    punti EW :19
+
+ HAND n.46  ==========================
+               KJ9           
+               5             
+               Q752          
+               QJ974         
+           Q72      T86           
+          KQ63      AJT742        
+          KT83      A94           
+            A3      8             
+               A543          
+               98            
+               J6            
+               KT652         
+ punti N :9
+ punti E :9
+ punti S :8
+ punti W :14
+    punti NS :17
+    punti EW :23
+
+ HAND n.47  ==========================
+               976           
+               A5            
+               KJT876        
+               T7            
+           T52      AQ8           
+           T96      Q43           
+            53      AQ92          
+         J9432      865           
+               KJ43          
+               KJ872         
+               4             
+               AKQ           
+ punti N :8
+ punti E :14
+ punti S :17
+ punti W :1
+    punti NS :25
+    punti EW :15
+
+ HAND n.48  ==========================
+               KQ63          
+               AK3           
+               QT92          
+               K5            
+           A52      J8            
+            T8      J954          
+           A64      KJ8753        
+         AJ764      3             
+               T974          
+               Q762          
+                             
+               QT982         
+ punti N :17
+ punti E :6
+ punti S :4
+ punti W :13
+    punti NS :21
+    punti EW :19
+
+ HAND n.49  ==========================
+               T72           
+               J2            
+               KT97          
+               AK84          
+         AQJ64      98            
+          K963      A75           
+           Q54      AJ82          
+             5      QJT7          
+               K53           
+               QT84          
+               63            
+               9632          
+ punti N :11
+ punti E :12
+ punti S :5
+ punti W :12
+    punti NS :16
+    punti EW :24
+
+ HAND n.50  ==========================
+               AK2           
+               J863          
+               K3            
+               Q965          
+         QJ983      T6            
+           K52      T97           
+           Q65      J984          
+            J8      A432          
+               754           
+               AQ4           
+               AT72          
+               KT7           
+ punti N :13
+ punti E :5
+ punti S :13
+ punti W :9
+    punti NS :26
+    punti EW :14
+
+ HAND n.51  ==========================
+               JT8765        
+               7             
+               KQT           
+               752           
+           AKQ      93            
+           T98      KQJ6432       
+          A852      J             
+           KJT      A43           
+               42            
+               A5            
+               97643         
+               Q986          
+ punti N :6
+ punti E :11
+ punti S :6
+ punti W :17
+    punti NS :12
+    punti EW :28
+
+ HAND n.52  ==========================
+               KT74          
+               K7            
+               KQ3           
+               AQJT          
+                    QJ8652        
+           542      QT9863        
+          A942                    
+        K98653      2             
+               A93           
+               AJ            
+               JT8765        
+               74            
+ punti N :18
+ punti E :5
+ punti S :10
+ punti W :7
+    punti NS :28
+    punti EW :12
+
+ HAND n.53  ==========================
+               A8            
+               A96           
+               J8754         
+               K75           
+             6      QT954         
+             T      KQ3           
+         AQ932      KT6           
+        AT9632      J4            
+               KJ732         
+               J87542        
+                             
+               Q8            
+ punti N :12
+ punti E :11
+ punti S :7
+ punti W :10
+    punti NS :19
+    punti EW :21
+
+ HAND n.54  ==========================
+               K65           
+               32            
+               KT732         
+               KJ7           
+            72      QT84          
+           QJ4      AK65          
+           AJ4      85            
+         98654      QT2           
+               AJ93          
+               T987          
+               Q96           
+               A3            
+ punti N :10
+ punti E :11
+ punti S :11
+ punti W :8
+    punti NS :21
+    punti EW :19
+
+ HAND n.55  ==========================
+               654           
+               832           
+               K3            
+               JT852         
+          K987      J32           
+           AT4      KJ6           
+          AJ65      T72           
+            K7      Q643          
+               AQT           
+               Q975          
+               Q984          
+               A9            
+ punti N :4
+ punti E :7
+ punti S :14
+ punti W :15
+    punti NS :18
+    punti EW :22
+
+ HAND n.56  ==========================
+               65            
+               8653          
+               QJT64         
+               Q5            
+           J92      K873          
+          JT72      A             
+            52      983           
+          8743      AJT92         
+               AQT4          
+               KQ94          
+               AK7           
+               K6            
+ punti N :5
+ punti E :12
+ punti S :21
+ punti W :2
+    punti NS :26
+    punti EW :14
+
+ HAND n.57  ==========================
+               T763          
+               A543          
+               2             
+               9643          
+           AKJ      Q542          
+            KJ      7             
+          Q764      KJT85         
+          KT75      QJ2           
+               98            
+               QT9862        
+               A93           
+               A8            
+ punti N :4
+ punti E :9
+ punti S :10
+ punti W :17
+    punti NS :14
+    punti EW :26
+
+ HAND n.58  ==========================
+               AQ85          
+               Q62           
+               JT            
+               K983          
+          KJT7      93            
+          AKT7      J853          
+           KQ4      8752          
+            T2      Q76           
+               642           
+               94            
+               A963          
+               AJ54          
+ punti N :12
+ punti E :3
+ punti S :9
+ punti W :16
+    punti NS :21
+    punti EW :19
+
+ HAND n.59  ==========================
+               KT            
+               KJ72          
+               AT42          
+               AQ4           
+           872      AQ43          
+          8653      AT            
+             J      Q975          
+         K8632      J75           
+               J965          
+               Q94           
+               K863          
+               T9            
+ punti N :17
+ punti E :13
+ punti S :6
+ punti W :4
+    punti NS :23
+    punti EW :17
+
+ HAND n.60  ==========================
+               QT974         
+               Q4            
+               A3            
+               AQJ4          
+             A      K832          
+          J753      AT2           
+          Q962      KT54          
+          T863      K9            
+               J65           
+               K986          
+               J87           
+               752           
+ punti N :15
+ punti E :13
+ punti S :5
+ punti W :7
+    punti NS :20
+    punti EW :20
+
+ HAND n.61  ==========================
+               97652         
+               6             
+               AT9           
+               AT42          
+          AKQ4      J             
+             3      KT8752        
+           K53      8742          
+         QJ975      63            
+               T83           
+               AQJ94         
+               QJ6           
+               K8            
+ punti N :8
+ punti E :4
+ punti S :13
+ punti W :15
+    punti NS :21
+    punti EW :19
+
+ HAND n.62  ==========================
+               AT2           
+               T763          
+               6             
+               AKT98         
+          Q873      J96           
+             8      AJ54          
+        KJT542      A87           
+            Q4      J32           
+               K54           
+               KQ92          
+               Q93           
+               765           
+ punti N :11
+ punti E :11
+ punti S :10
+ punti W :8
+    punti NS :21
+    punti EW :19
+
+ HAND n.63  ==========================
+               K653          
+               K64           
+               K87           
+               J63           
+        AT9842      QJ            
+            Q3      AJ9           
+            A9      QJT63         
+           875      AKQ           
+               7             
+               T8752         
+               542           
+               T942          
+ punti N :10
+ punti E :20
+ punti S :0
+ punti W :10
+    punti NS :10
+    punti EW :30
+
+ HAND n.64  ==========================
+               Q3            
+               KQ753         
+               KQJT          
+               K8            
+         KJ874      A52           
+             4      T96           
+            98      A7652         
+         J5432      76            
+               T96           
+               AJ82          
+               43            
+               AQT9          
+ punti N :16
+ punti E :8
+ punti S :11
+ punti W :5
+    punti NS :27
+    punti EW :13
+
+ HAND n.65  ==========================
+               T72           
+               K             
+               QT532         
+               QT64          
+          AQ95      KJ64          
+           532      J64           
+           A96      J             
+           A97      KJ852         
+               83            
+               AQT987        
+               K874          
+               3             
+ punti N :7
+ punti E :10
+ punti S :9
+ punti W :14
+    punti NS :16
+    punti EW :24
+
+ HAND n.66  ==========================
+               J872          
+               A53           
+               T54           
+               J54           
+           QT4      AK965         
+            96      KT7           
+          K962      Q83           
+          T632      Q9            
+               3             
+               QJ842         
+               AJ7           
+               AK87          
+ punti N :6
+ punti E :14
+ punti S :15
+ punti W :5
+    punti NS :21
+    punti EW :19
+
+ HAND n.67  ==========================
+               AKJ764        
+               K82           
+               A932          
+                             
+           Q92      T8            
+        Q97543      AT6           
+           J74      T86           
+             6      AQ875         
+               53            
+               J             
+               KQ5           
+               KJT9432       
+ punti N :15
+ punti E :10
+ punti S :10
+ punti W :5
+    punti NS :25
+    punti EW :15
+
+ HAND n.68  ==========================
+               AJ7           
+               95            
+               A964          
+               AJ32          
+           KQ8      T963          
+          AQ84      KJT7          
+           753      JT8           
+           T86      Q9            
+               542           
+               632           
+               KQ2           
+               K754          
+ punti N :14
+ punti E :7
+ punti S :8
+ punti W :11
+    punti NS :22
+    punti EW :18
+
+ HAND n.69  ==========================
+               J87           
+               KQJ742        
+               75            
+               AT            
+           965      AT3           
+             9      AT6           
+        AQT932      KJ8           
+           864      KQ73          
+               KQ42          
+               853           
+               64            
+               J952          
+ punti N :11
+ punti E :17
+ punti S :6
+ punti W :6
+    punti NS :17
+    punti EW :23
+
+ HAND n.70  ==========================
+               QT96          
+               A4            
+               73            
+               T8542         
+            75      KJ8           
+       QJ87653      T             
+             6      AKQJ8         
+           A73      KQ96          
+               A432          
+               K92           
+               T9542         
+               J             
+ punti N :6
+ punti E :19
+ punti S :8
+ punti W :7
+    punti NS :14
+    punti EW :26
+
+ HAND n.71  ==========================
+               953           
+               K8            
+               AT642         
+               KQ9           
+          JT64      KQ            
+           AT5      9763          
+           K95      QJ7           
+           A75      T832          
+               A872          
+               QJ42          
+               83            
+               J64           
+ punti N :12
+ punti E :8
+ punti S :8
+ punti W :12
+    punti NS :20
+    punti EW :20
+
+ HAND n.72  ==========================
+               K63           
+               75            
+               K852          
+               A983          
+           Q97      AJ52          
+         KJT43      A986          
+            AJ      Q4            
+           Q64      KJ2           
+               T84           
+               Q2            
+               T9763         
+               T75           
+ punti N :10
+ punti E :15
+ punti S :2
+ punti W :13
+    punti NS :12
+    punti EW :28
+
+ HAND n.73  ==========================
+               T32           
+               KQT3          
+               4             
+               KQJ64         
+           975      AQ6           
+          J765      A             
+        AKJT53      8762          
+                    AT987         
+               KJ84          
+               9842          
+               Q9            
+               532           
+ punti N :11
+ punti E :14
+ punti S :6
+ punti W :9
+    punti NS :17
+    punti EW :23
+
+ HAND n.74  ==========================
+               AJ9           
+               QJ8           
+               QJ863         
+               86            
+            65      KQ842         
+        KT5432      A             
+           A74      KT2           
+            AK      Q954          
+               T73           
+               976           
+               95            
+               JT732         
+ punti N :11
+ punti E :14
+ punti S :1
+ punti W :14
+    punti NS :12
+    punti EW :28
+
+ HAND n.75  ==========================
+               QJ942         
+               AJ9           
+               984           
+               Q2            
+            A8      T765          
+          K853      Q74           
+          QJ75      A32           
+           J85      964           
+               K3            
+               T62           
+               KT6           
+               AKT73         
+ punti N :10
+ punti E :6
+ punti S :13
+ punti W :11
+    punti NS :23
+    punti EW :17
+
+ HAND n.76  ==========================
+               986           
+               AK953         
+               KT8           
+               96            
+           KQ7      A53           
+          QJ64      T87           
+           954      J6            
+           A85      KJ432         
+               JT42          
+               2             
+               AQ732         
+               QT7           
+ punti N :10
+ punti E :9
+ punti S :9
+ punti W :12
+    punti NS :19
+    punti EW :21
+
+ HAND n.77  ==========================
+               KT9632        
+               KT54          
+               K3            
+               J             
+           AQ5      J874          
+           732      AQ86          
+           AJ6      QT7           
+          AQ87      K5            
+                             
+               J9            
+               98542         
+               T96432        
+ punti N :10
+ punti E :12
+ punti S :1
+ punti W :17
+    punti NS :11
+    punti EW :29
+
+ HAND n.78  ==========================
+               A8            
+               AJ86          
+               KT42          
+               T86           
+          QT43      KJ76          
+           932      QT            
+         AJ873      6             
+             3      KQ9542        
+               952           
+               K754          
+               Q95           
+               AJ7           
+ punti N :12
+ punti E :11
+ punti S :10
+ punti W :7
+    punti NS :22
+    punti EW :18
+
+ HAND n.79  ==========================
+               AKQJ6         
+               Q85           
+               943           
+               93            
+             9      8432          
+          7643      AK2           
+          QJ82      KT5           
+          JT42      KQ6           
+               T75           
+               JT9           
+               A76           
+               A875          
+ punti N :12
+ punti E :15
+ punti S :9
+ punti W :4
+    punti NS :21
+    punti EW :19
+
+ HAND n.80  ==========================
+               43            
+               J532          
+               QJT72         
+               J6            
+            96      K8752         
+          AT96      74            
+           K84                    
+          9874      AKQT52        
+               AQJT          
+               KQ8           
+               A9653         
+               3             
+ punti N :5
+ punti E :12
+ punti S :16
+ punti W :7
+    punti NS :21
+    punti EW :19
+
+ HAND n.81  ==========================
+               AT63          
+               AJ987         
+               AK3           
+               2             
+            82      J94           
+          KT54      6             
+           QT6      875           
+          A985      QJT743        
+               KQ75          
+               Q32           
+               J942          
+               K6            
+ punti N :16
+ punti E :4
+ punti S :11
+ punti W :9
+    punti NS :27
+    punti EW :13
+
+ HAND n.82  ==========================
+               QJT7          
+               J76           
+               QT8           
+               T63           
+           K84      A962          
+             9      KT3           
+         AJ973      652           
+          J872      Q94           
+               53            
+               AQ8542        
+               K4            
+               AK5           
+ punti N :6
+ punti E :9
+ punti S :16
+ punti W :9
+    punti NS :22
+    punti EW :18
+
+ HAND n.83  ==========================
+               AKT76         
+               984           
+               A8            
+               A82           
+           QJ9      8542          
+          AJ72      Q65           
+           Q65      73            
+           Q94      KJ65          
+               3             
+               KT3           
+               KJT942        
+               T73           
+ punti N :15
+ punti E :6
+ punti S :7
+ punti W :12
+    punti NS :22
+    punti EW :18
+
+ HAND n.84  ==========================
+               AQ86          
+               J             
+               JT7632        
+               AT            
+          KJ92      T43           
+           654      QT9872        
+           Q98      A5            
+           762      Q4            
+               75            
+               AK3           
+               K4            
+               KJ9853        
+ punti N :12
+ punti E :8
+ punti S :14
+ punti W :6
+    punti NS :26
+    punti EW :14
+
+ HAND n.85  ==========================
+               K             
+               KT865         
+               AQ4           
+               AQJ5          
+           Q94      753           
+           AJ7      Q43           
+          8653      KT92          
+           742      K83           
+               AJT862        
+               92            
+               J7            
+               T96           
+ punti N :19
+ punti E :8
+ punti S :6
+ punti W :7
+    punti NS :25
+    punti EW :15
+
+ HAND n.86  ==========================
+               JT2           
+               73            
+               AK5432        
+               65            
+            A4      9853          
+         Q9842      65            
+            76      Q8            
+          AK72      QJT98         
+               KQ76          
+               AKJT          
+               JT9           
+               43            
+ punti N :8
+ punti E :5
+ punti S :14
+ punti W :13
+    punti NS :22
+    punti EW :18
+
+ HAND n.87  ==========================
+               JT5           
+               K             
+               J854          
+               AQJT6         
+           AKQ      86432         
+          9642      J8            
+          AKQT      762           
+            K8      954           
+               97            
+               AQT753        
+               93            
+               732           
+ punti N :12
+ punti E :1
+ punti S :6
+ punti W :21
+    punti NS :18
+    punti EW :22
+
+ HAND n.88  ==========================
+               Q2            
+               T982          
+               KQ8753        
+               2             
+           J94      K865          
+           KJ3      Q64           
+            T2      AJ64          
+         AQ653      T9            
+               AT73          
+               A75           
+               9             
+               KJ874         
+ punti N :7
+ punti E :10
+ punti S :12
+ punti W :11
+    punti NS :19
+    punti EW :21
+
+ HAND n.89  ==========================
+               A96           
+               J8            
+               65            
+               T87654        
+         KT532      Q8            
+         K9653      QT2           
+            JT      K9832         
+             3      K92           
+               J74           
+               A74           
+               AQ74          
+               AQJ           
+ punti N :5
+ punti E :10
+ punti S :18
+ punti W :7
+    punti NS :23
+    punti EW :17
+
+ HAND n.90  ==========================
+               T6            
+               4             
+               K985          
+               AQJ542        
+           873      92            
+          QT86      AK75          
+           764      AQJT3         
+           963      KT            
+               AKQJ54        
+               J932          
+               2             
+               87            
+ punti N :10
+ punti E :17
+ punti S :11
+ punti W :2
+    punti NS :21
+    punti EW :19
+
+ HAND n.91  ==========================
+               AKJ           
+               K732          
+               A73           
+               A83           
+             4      T9            
+          A984      JT            
+          KQT8      J654          
+          J652      KQ974         
+               Q876532       
+               Q65           
+               92            
+               T             
+ punti N :19
+ punti E :7
+ punti S :4
+ punti W :10
+    punti NS :23
+    punti EW :17
+
+ HAND n.92  ==========================
+               6             
+               KJT52         
+               JT87          
+               AJT           
+          A942      T8753         
+           A97      64            
+             2      43            
+         87432      K965          
+               KQJ           
+               Q83           
+               AKQ965        
+               Q             
+ punti N :10
+ punti E :3
+ punti S :19
+ punti W :8
+    punti NS :29
+    punti EW :11
+
+ HAND n.93  ==========================
+               A6            
+               K854          
+               984           
+               T983          
+            87      Q42           
+           973      AQ62          
+           632      QJ5           
+         QJ742      AK5           
+               KJT953        
+               JT            
+               AKT7          
+               6             
+ punti N :7
+ punti E :18
+ punti S :12
+ punti W :3
+    punti NS :19
+    punti EW :21
+
+ HAND n.94  ==========================
+               QJ83          
+               K6            
+               AJT74         
+               72            
+                    A9762         
+         97543      AQ82          
+          6532      K             
+          KJT4      Q83           
+               KT54          
+               JT            
+               Q98           
+               A965          
+ punti N :11
+ punti E :15
+ punti S :10
+ punti W :4
+    punti NS :21
+    punti EW :19
+
+ HAND n.95  ==========================
+               AJ932         
+               A62           
+               T84           
+               54            
+                    KQT           
+          KT75      J984          
+         AK953      J762          
+          QJT2      96            
+               87654         
+               Q3            
+               Q             
+               AK873         
+ punti N :9
+ punti E :7
+ punti S :11
+ punti W :13
+    punti NS :20
+    punti EW :20
+
+ HAND n.96  ==========================
+               A6542         
+               K4            
+               AK4           
+               K54           
+           KT3      Q7            
+            76      J853          
+          QJ62      T98753        
+          QJ96      7             
+               J98           
+               AQT92         
+                             
+               AT832         
+ punti N :17
+ punti E :3
+ punti S :11
+ punti W :9
+    punti NS :28
+    punti EW :12
+
+ HAND n.97  ==========================
+               KT763         
+               52            
+               K92           
+               KJ5           
+          Q954      8             
+            84      KJT6          
+          T543      QJ76          
+           872      9643          
+               AJ2           
+               AQ973         
+               A8            
+               AQT           
+ punti N :10
+ punti E :7
+ punti S :21
+ punti W :2
+    punti NS :31
+    punti EW :9
+
+ HAND n.98  ==========================
+               KT874         
+               7             
+               8732          
+               Q42           
+             A      QJ5           
+        AK6532      QT94          
+            Q4      AJT           
+          K953      T76           
+               9632          
+               J8            
+               K965          
+               AJ8           
+ punti N :5
+ punti E :10
+ punti S :9
+ punti W :16
+    punti NS :14
+    punti EW :26
+
+ HAND n.99  ==========================
+               AQ864         
+               JT            
+               AT432         
+               K             
+            KT      72            
+         AQ652      K984          
+           J76      95            
+           Q43      98762         
+               J953          
+               73            
+               KQ8           
+               AJT5          
+ punti N :14
+ punti E :3
+ punti S :11
+ punti W :12
+    punti NS :25
+    punti EW :15

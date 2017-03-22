@@ -1,0 +1,205 @@
+
+ ================================== Partita #1 ====  
+ N-S: hjhjk - yyy
+ E-0: kjnn - yyyyx
+
+----------------- hand #1
+ NS : in prima 	 EO : in prima 	 licita Nord : hjhjk 
+
+               AQ763         
+               93            
+               3             
+               AK985         
+           KT4                    
+            Q6      AJT72         
+         AT874      Q92           
+           J72      QT643         
+               J9852         
+               K854          
+               KJ65          
+                             
+
+----------------- hand #2
+ NS : in ZONA 	 EO : in prima 	 licita Est : kjnn 
+
+               AQJT          
+               AJ3           
+               JT2           
+               KQ6           
+             6      K432          
+          K984      QT7           
+         KQ873      654           
+           T72      A98           
+               9875          
+               652           
+               A9            
+               J543          
+
+----------------- hand #3
+ NS : in prima 	 EO : in ZONA 	 licita Sud : yyy 
+
+               T865          
+               KJ8           
+               KT6           
+               J95           
+             A      KJ932         
+         AQ642      975           
+           A85      QJ4           
+          AQ64      T8            
+               Q74           
+               T3            
+               9732          
+               K732          
+
+----------------- hand #4
+ NS : in ZONA 	 EO : in ZONA 	 licita Ovest : yyyyx 
+
+               AT7           
+               AKQ52         
+               K87           
+               A7            
+            J5      Q962          
+           JT6      743           
+          AJ64      QT53          
+          J852      T3            
+               K843          
+               98            
+               92            
+               KQ964         
+
+ ================================== Partita #2 ====  
+ N-S: hjhjk - kjnn
+ E-0: yyyyx - yyy
+
+----------------- hand #5
+ NS : in prima 	 EO : in prima 	 licita Nord : hjhjk 
+
+               A8            
+               KQT54         
+               43            
+               KQ65          
+         KQJ65      T93           
+            73      986           
+            A5      JT86          
+          JT93      A82           
+               742           
+               AJ2           
+               KQ972         
+               74            
+
+----------------- hand #6
+ NS : in ZONA 	 EO : in prima 	 licita Est : yyyyx 
+
+               975432        
+                             
+               K63           
+               T984          
+            K8      AJ            
+       Q976532      AJ84          
+           AQ7      T942          
+             K      A32           
+               QT6           
+               KT            
+               J85           
+               QJ765         
+
+----------------- hand #7
+ NS : in prima 	 EO : in ZONA 	 licita Sud : kjnn 
+
+               AT954         
+               43            
+               J8            
+               AQJ4          
+            J7      Q63           
+        AKT865      Q92           
+           973      Q62           
+            83      K752          
+               K82           
+               J7            
+               AKT54         
+               T96           
+
+----------------- hand #8
+ NS : in ZONA 	 EO : in ZONA 	 licita Ovest : yyy 
+
+               J6            
+               KJ7           
+               A95           
+               KT964         
+            Q9      T87543        
+          T953      AQ64          
+         KQT83                    
+            83      QJ7           
+               AK2           
+               82            
+               J7642         
+               A52           
+
+ ================================== Partita #3 ====  
+ N-S: hjhjk - yyyyx
+ E-0: yyy - kjnn
+
+----------------- hand #9
+ NS : in prima 	 EO : in prima 	 licita Nord : hjhjk 
+
+               A73           
+               T6            
+               QJT63         
+               765           
+           QJ8      KT642         
+           A54      KQJ32         
+            54      A87           
+         AQJ82                    
+               95            
+               987           
+               K92           
+               KT943         
+
+----------------- hand #10
+ NS : in ZONA 	 EO : in prima 	 licita Est : yyy 
+
+               KT6           
+               Q9754         
+               A652          
+               9             
+          QJ95      A82           
+           J32      KT86          
+         QT943      7             
+             Q      AJ742         
+               743           
+               A             
+               KJ8           
+               KT8653        
+
+----------------- hand #11
+ NS : in prima 	 EO : in ZONA 	 licita Sud : yyyyx 
+
+               4             
+               AJ975         
+               KQ98743       
+                             
+           QT8      J9762         
+            K6      Q2            
+             A      T6            
+       QJT9873      A654          
+               AK53          
+               T843          
+               J52           
+               K2            
+
+----------------- hand #12
+ NS : in ZONA 	 EO : in ZONA 	 licita Ovest : kjnn 
+
+               T92           
+               J5            
+               QT753         
+               AJ5           
+           AQJ      654           
+          AK74      QT92          
+            42      AK6           
+          KT72      Q83           
+               K873          
+               863           
+               J98           
+               964           
+
