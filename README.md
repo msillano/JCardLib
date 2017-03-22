@@ -10,4 +10,4 @@ The lib is general poupose, to handle hands and car set.
 
 This library is used in BridgeStats, an app for Android
 
-![screenshot](./image03.png)
+![screenshot](./screenshot3.png)
